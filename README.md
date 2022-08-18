@@ -1,1 +1,0 @@
-# http://quietforest.github.io
